@@ -1,1 +1,2 @@
-- 👋$ git config user.name "Admasu"
+I am passionate about software development and systems engineering, with a strong foundation in both low-level and high-level programming languages. My academic and practical experience has equipped me with skills in C, Python, and JavaScript, allowing me to work across different layers of software development—from hardware-level interactions to web applications.
+In addition to programming, I have hands-on experience with database management, deployment pipelines, and DevOps practices, giving me a well-rounded understanding of how to build, scale, and maintain modern systems. I'm continuously exploring new technologies and enjoy solving complex problems through efficient and maintainable solutions.
